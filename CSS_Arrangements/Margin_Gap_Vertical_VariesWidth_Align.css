@@ -1,0 +1,36 @@
+/*training FLEX*/
+
+.container {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  body{
+    margin: 0px;
+    padding: 20px;
+  }
+  
+  .box {
+    width: 300px;
+    height: 300px;
+  
+  }
+  
+  #red {
+    background-color: #F25F5C;
+  
+  }
+  
+  #yellow {
+    background-color: #FFE066;
+    min-width: 900px;
+  
+  }
+  
+  #blue {
+    background-color: #247BA0;
+    min-width: 600px;
+  
+  }

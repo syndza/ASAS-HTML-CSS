@@ -1,0 +1,13 @@
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.dimension{
+  background-color: blue;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 40px;
+  border: 8px solid red;
+}

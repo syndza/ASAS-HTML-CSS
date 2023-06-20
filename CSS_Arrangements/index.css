@@ -1,0 +1,10 @@
+/*training FLEX*/
+
+.container {
+display: flex;
+}
+
+body{
+  margin: 8px;
+  padding: 8px;
+}

@@ -1,0 +1,37 @@
+/*training FLEX*/
+
+.container {
+display: flex;
+flex-direction: row-reverse;
+flex-wrap: wrap;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  flex-grow: 1;
+  min-width: 600px;
+}
+
+#red {
+  background-color: #F25F5C;
+  min-width: 1440px;
+
+}
+
+#yellow {
+  background-color: #FFE066;
+  max-width: 10000px;
+
+}
+
+#blue {
+  background-color: #247BA0;
+  max-width: 1000px;
+
+}
